@@ -63,7 +63,7 @@ select:focus {
 .text-box textarea {
   border: 1px #dadada solid;
   border-radius: 4px;
-  font-size: 8px;
+  font-size: 12px;
   padding: 8px;
   margin: 15px 0;
   width: 100%;
